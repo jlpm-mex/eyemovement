@@ -9,13 +9,13 @@
 <h1 align="center">Eye Movement</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jlpm-mex/pacmenfactory?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jlpm-mex/eyemovement?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jlpm-mex/pacmenfactory?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jlpm-mex/eyemovement?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jlpm-mex/pacmenfactory?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jlpm-mex/eyemovement?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/jlpm-mex/pacmenfactory?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/jlpm-mex/eyemovement?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/workspace?color=56BEB8" /> -->
 
@@ -85,10 +85,15 @@ ejecutar index.html en un navegador
 
 ## :memo: Licencia ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/jlpm-mex" target="_blank">Jose Luis Pino</a>
+
+
+
+## Créditos
+- Developer, F. (2022, June 2). Simple analog clock using HTML, CSS &amp; javascript. DEV Community. Retrieved August 24, 2022, from https://dev.to/code_mystery/simple-analog-clock-using-html-css-javascript-2c6a 
 
 &#xa0;
 
